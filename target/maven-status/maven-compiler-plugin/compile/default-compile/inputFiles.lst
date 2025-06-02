@@ -1,0 +1,7 @@
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\GatewayApplication.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\GatewayResource.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\security\AuthorizationFilter.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\security\CorsFilter.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\security\RouterValidator.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\security\SolveOut.java
+C:\Users\Daniel\humberto\api\gateway-service\src\main\java\store\gateway\security\TokenOut.java
